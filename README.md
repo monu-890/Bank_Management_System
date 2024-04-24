@@ -21,7 +21,6 @@ Installation Prerequisites
 
 ⚙️Python 3.x installed on your machine.
 📦 Git for cloning the repository (optional).
-📥 Clone the Repository git clone https://github.com/ABHANGKARODE/Bank_Management_System.git
 
 Usage 1🚀 Initialize customer accounts with initial balances. 2.💰 Perform transactions such as deposits and withdrawals on these accounts. 3.📊 View updated balances after each transaction. 4.⚠️ Handle invalid transaction types and insufficient funds scenarios gracefully.
 
